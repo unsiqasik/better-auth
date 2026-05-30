@@ -1,5 +1,15 @@
 # @better-auth/api-key
 
+## 1.6.13
+
+### Patch Changes
+
+- [#9794](https://github.com/better-auth/better-auth/pull/9794) [`e131d3a`](https://github.com/better-auth/better-auth/commit/e131d3ac5ba476cc9cc306e46422c7d2d21f3929) Thanks [@bytaesu](https://github.com/bytaesu)! - `verifyApiKey` rejected keys created under a non-default `configId` when the request omitted `configId`. It now validates the key against its own configuration.
+
+- Updated dependencies []:
+  - better-auth@1.6.13
+  - @better-auth/core@1.6.13
+
 ## 1.6.12
 
 ### Patch Changes

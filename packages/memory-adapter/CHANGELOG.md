@@ -1,5 +1,12 @@
 # @better-auth/memory-adapter
 
+## 1.6.13
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @better-auth/core@1.6.13
+
 ## 1.6.12
 
 ### Patch Changes
